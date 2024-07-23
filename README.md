@@ -1,7 +1,7 @@
 # 1. Project Details:
 
 * Topic: Microorganism Classification
-* Goal: Creating an API that classifies JPG images of microorganisms and provides feedback with classification results and confidence levels.
+* Goal: Creating an API and frontend that classifies JPG images of microorganisms and provides feedback with classification results and confidence levels.
 * Data: Microorganism image dataset from Kaggle: https://www.kaggle.com/datasets/mdwaquarazam/microorganism-image-classification (8 classes: Amoeba, Euglena, Hydra, Paramecium, Rod_bacteria, Spherical_bacteria, Spiral_bacteria, Yeast)
 * Deep Learning Model: Convolutional Neural Network (CNN)
 
